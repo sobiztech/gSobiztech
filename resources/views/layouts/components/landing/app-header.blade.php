@@ -6,7 +6,7 @@
 							<!-- sidebar-toggle-->
 							<a class="logo-horizontal " href="{{url('index')}}">
 								<img src="{{asset('assets/images/brand/logo.png')}}" class="header-brand-img desktop-logo" alt="logo">
-								<img src="{{asset('assets/images/brand/logo-3.png')}}" class="header-brand-img light-logo1" alt="logo">
+								<img src="{{asset('assets/images/brand/sobiztechWebLogo.png')}}" class="header-brand-img light-logo1" alt="logo">
 							</a>
 							<!-- LOGO -->
 

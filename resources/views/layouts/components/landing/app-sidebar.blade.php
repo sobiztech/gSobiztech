@@ -4,7 +4,7 @@
 							<div class="container">
 								<div class="main-sidemenu navbar px-0">
 									<a class="navbar-brand ps-0 d-none d-lg-block" href="{{url('index')}}">
-										<img alt="" class="logo-2" src="{{asset('assets/images/brand/logo-3.png')}}">
+										<img alt="" class="logo-2" src="{{asset('assets/images/brand/sobiztechWebLogo.png')}}">
 										<img alt="" class="dark-landinglogo" src="{{asset('assets/images/brand/logo.png')}}">
 									</a>
 									<ul class="side-menu">

@@ -1,8 +1,8 @@
         <!-- FAVICON -->
-        <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/brand/favicon.ico')}}" />
+        <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/brand/sobiztechOnlyLogo.ico')}}" />
 
         <!-- TITLE -->
-        <title>Noa - Laravel Bootstrap 5 Admin & Dashboard Template</title>
+        <title>sobiztech - Bussiness In Your Hand</title>
 
         <!-- BOOTSTRAP CSS -->
         <link id="style" href="{{asset('assets/plugins/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" />

@@ -5,7 +5,7 @@
 @endsection
 
 @section('content')
-
+{{-- test --}}
     <!-- Our motto section-->
     <div class="section pb-5">
         <div class="container px-5 px-md-0">
